@@ -39,7 +39,7 @@ export const theme = {
     },
     backgroundImage: {
       'hero-pattern':
-        "url('https://img.freepik.com/free-vector/female-customer-service-worker-sitting-at-laptop-call-center-operator-in-headphones-flat-vector-illustration-customer-support-communication-concept-for-banner-website-design-or-landing-web-page_74855-21837.jpg?w=1380&t=st=1693659810~exp=1693660410~hmac=6f4a0f20929c3e3e347f7bf41e915dc7a6f1b0d065018ce836fa5b0baefe4727')",
+        "url('https://img.freepik.com/free-photo/surprised-asian-middleaged-woman-with-grey-hair-looking-at-money-and-holding-credit-card-earning-cas_1258-157015.jpg?w=1800&t=st=1693742470~exp=1693743070~hmac=c365f7a3777e4f7e1852a6ddc6f85354e3c9d7ac89c9701ea3c0fdf2b83ffbf9')",
     },
   },
 };
